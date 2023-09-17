@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "zx50159230*",
+      "database": "formu",
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  }
+  
